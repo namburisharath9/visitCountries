@@ -1,0 +1,29 @@
+.country-item-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 3vw;
+  padding-right: 3vw;
+  margin: 0px;
+  border-bottom: solid #334155;
+  border-width: 0.001px;
+  background-color: #1f1f2f;
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.visited {
+  color: #334155;
+}
+.visit-btn {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 1px;
+  padding-left: 1vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-right: 1vw;
+}

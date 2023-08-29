@@ -1,0 +1,31 @@
+.visited-country {
+  width: 30%;
+  margin-right: 1vw;
+}
+.image {
+  width: 100%;
+}
+.name-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f1f2f;
+  padding-right: 1vw;
+  padding-left: 1vw;
+}
+.title-country {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.btn {
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-color: #ffffff;
+  background-color: transparent;
+  border-radius: 1px;
+  padding-left: 1vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-right: 1vw;
+}

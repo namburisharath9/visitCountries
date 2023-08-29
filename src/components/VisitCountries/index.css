@@ -1,0 +1,60 @@
+.bg-container {
+  background-color: #161624;
+  background-size: cover;
+  width: 100vw;
+}
+
+.countries-container {
+  height: 40vh;
+  overflow-y: scroll;
+  list-style: none;
+  border: solid #334155;
+  border-width: 0.001px;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  padding: 0px;
+  border-radius: 5px;
+}
+
+.visited-container {
+  height: 40vh;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  padding: 0px;
+}
+
+.no-visited-container {
+  color: #ffffff;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
+
+.first-section {
+  height: 50vh;
+  width: 100vw;
+}
+
+.second-section {
+  height: 50vh;
+  width: 100vw;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  padding: 0px;
+}
